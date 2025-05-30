@@ -153,7 +153,7 @@
                 "clients":[
                     {
                         "method":"chacha20-ietf-poly1305",
-                        "password":"fa221792-f72f-47fb-8901-00962ae17793"
+                        "password":"c1e227a8-39b6-436d-9c0b-e391807156d4"
                     }
                 ],
                 "decryption":"none"
